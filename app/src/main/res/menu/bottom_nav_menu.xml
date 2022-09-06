@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragmentPertama"
+        android:title="fragment1"
+        android:icon="@drawable/ic_baseline_filter_1_24"/>
+    <item
+        android:id="@+id/fragmentKedua"
+        android:title="fragment2"
+        android:icon="@drawable/ic_baseline_filter_2_24"/>
+    <item
+        android:id="@+id/fragmentKetiga"
+        android:title="fragment3"
+        android:icon="@drawable/ic_baseline_filter_3_24"/>
+</menu>
